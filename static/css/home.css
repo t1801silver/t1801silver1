@@ -1,0 +1,31 @@
+
+#content_home{
+  width:100%;
+  margin-top: 20px;
+}
+
+.btn-primary{
+  background: #53B2A0;
+  border: 1px solid #53B2A0;
+  color: #fff;
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  background: #53B2A0;
+  border: 1px solid #53B2A0;
+  color: #000;
+}
+
+.btn-default{
+  background: #fff;
+  border: 1px solid #53B2A0;
+  color: #53B2A0;
+  box-shadow: none;
+}
+
+.btn-default:hover {
+  background: #fff;
+  border: 1px solid #53B2A0;
+  color: #000;
+}
